@@ -1,4 +1,4 @@
-package Arrays;
+package DevDojoMaratonandoJava.Arrays;
 
 public class ArraysNumeros {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package DevDojoMaratonandoJava.EstruturasCondicionais;
+
 import java.util.Scanner;
 
 public class DadosPessoais {

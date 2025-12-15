@@ -1,4 +1,4 @@
-package Arrays;
+package DevDojoMaratonandoJava.Arrays;
 
 public class ArraysIdade {
    public static void main(String[] args) {

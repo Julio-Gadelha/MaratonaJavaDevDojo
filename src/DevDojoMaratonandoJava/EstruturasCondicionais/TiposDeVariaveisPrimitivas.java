@@ -1,4 +1,4 @@
-package DevDojoMaratonandoJava;
+package DevDojoMaratonandoJava.EstruturasCondicionais;
 
 public class TiposDeVariaveisPrimitivas {
      public static void main(String[] args) {
